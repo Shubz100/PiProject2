@@ -102,6 +102,7 @@ export default function Home() {
           <li><a href="#" className="block py-2 px-4 hover:bg-gray-700">Home</a></li>
           <li><a href="#" className="block py-2 px-4 hover:bg-gray-700">Transaction History</a></li>
           <li><a href="#" className="block py-2 px-4 hover:bg-gray-700">About</a></li>
+          <li><a href="#" className="block py-2 px-4 hover:bg-gray-700">Live Support</a></li>
         </ul>
       </div>
 
